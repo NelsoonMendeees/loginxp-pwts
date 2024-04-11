@@ -1,3 +1,5 @@
+[![Playwright Test](https://github.com/NelsoonMendeees/loginxp-pwts/actions/workflows/main.yml/badge.svg)](https://github.com/NelsoonMendeees/loginxp-pwts/actions/workflows/main.yml)
+
 ## 💻 Tecnologias
 
 - Node.js
@@ -23,3 +25,5 @@ npx playwright test
 ```
 npx playwright show-report
 ```
+## 🌐 GitHub Page
+- [Allure Report]([https://nelsoonmendeees.github.io/cypress-vanilla/](https://nelsoonmendeees.github.io/loginxp-pwts))
