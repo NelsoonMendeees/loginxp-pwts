@@ -26,4 +26,4 @@ npx playwright test
 npx playwright show-report
 ```
 ## 🌐 GitHub Page
-- [Allure Report]([https://nelsoonmendeees.github.io/loginxp-pwts/])
+- [Allure Report](https://nelsoonmendeees.github.io/loginxp-pwts/)
