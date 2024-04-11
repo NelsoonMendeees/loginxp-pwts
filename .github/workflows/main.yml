@@ -6,13 +6,15 @@ on:
 jobs:
   e2e-tests:
     runs-on: ubuntu-latest
-    container:
-      image: playwright-1.43.0
-      options: --user 1001
+    
     steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.11.0'
       - name: Get project
         uses: actions/checkout@v3.6.0
-
+        
       - name: Install dependencies
         run: npm install
         
