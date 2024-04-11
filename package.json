@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "pw:run": "npx playwright test"
+  },
   "prettier": {
     "printWidth": 90,
     "semi": false,
@@ -15,6 +17,7 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.43.0",
-    "@types/node": "^20.12.7"
+    "@types/node": "^20.12.7",
+    "allure-playwright": "^2.15.1"
   }
 }
