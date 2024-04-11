@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 11 19:32:51 GMT 2024","Thu Apr 11 19:33:00 GMT 2024","8222","Google Chrome","login.spec.ts","","","","deve logar com sucesso",""
+"passed","Thu Apr 11 19:33:02 GMT 2024","Thu Apr 11 19:33:03 GMT 2024","885","Google Chrome","login.spec.ts","","","","não deve logar quando não preencho o usuário",""
+"passed","Thu Apr 11 19:33:01 GMT 2024","Thu Apr 11 19:33:02 GMT 2024","977","Google Chrome","login.spec.ts","","","","não deve logar quando não preencho o login e senha",""
+"passed","Thu Apr 11 19:33:00 GMT 2024","Thu Apr 11 19:33:01 GMT 2024","931","Google Chrome","login.spec.ts","","","","não deve logar com senha inválida",""
+"passed","Thu Apr 11 19:33:02 GMT 2024","Thu Apr 11 19:33:02 GMT 2024","880","Google Chrome","login.spec.ts","","","","não deve logar quando não preencho a senha",""
